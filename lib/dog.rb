@@ -1,4 +1,4 @@
-# Your code goes here!
+# Your code goes here
 class Dog(name)
   def name
     @name = name
